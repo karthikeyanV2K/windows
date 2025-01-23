@@ -44,3 +44,5 @@ dxdiag
 msinfo32
 
 echo Scan complete!
+
+
